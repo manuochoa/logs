@@ -1,0 +1,5 @@
+bigint: Failed to load bindings, pure JS will be used (try npm run rebuild?)
+Connecting to MongoDB Atlas cluster...
+Successfully connected to MongoDB Atlas!
+Disconnected from MongoDB Atlas
+Finished processing deposits
